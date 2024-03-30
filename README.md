@@ -25,5 +25,3 @@
 https://ryanpicoli.github.io/HipnoTattoo/
 
 ![image](https://github.com/RyanPicoli/HipnoTattoo/assets/159569439/5eeac9c0-c6cd-494e-83e2-3907e2cb55d2)
-
-
