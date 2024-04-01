@@ -22,6 +22,7 @@
 </ul>
 
 <h1>Deploy da Aplicação</h1>
-https://ryanpicoli.github.io/HipnoTattoo/
+Link: https://ryanpicoli.github.io/HipnoTattoo/
 
-![image](https://github.com/RyanPicoli/HipnoTattoo/assets/159569439/5eeac9c0-c6cd-494e-83e2-3907e2cb55d2)
+![image](https://github.com/RyanPicoli/HipnoTattoo/assets/159569439/4a8ee938-e2ef-46cf-a241-ae98783bdc16)
+
